@@ -1,0 +1,12 @@
+C:\Users\Santos\Documents\Games Programming 3\Coursework\Coursework\CourseworkContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Students\Coursework\Coursework\CourseworkContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Santos\Documents\University\Games Programming 3\Coursework\Coursework\CourseworkContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Santos\Documents\GitHub\GP3Coursework\Coursework (Camera + fog +map)\Coursework\CourseworkContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Santos\Documents\GitHub\GP3Coursework\Coursework (HeightMap)\Coursework\CourseworkContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Santos\Desktop\Coursework (Controller + cam class)\Coursework\CourseworkContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Santos\Desktop\Coursework (Controller + cam class) kinda working\Coursework\CourseworkContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Santos\Desktop\Coursework (Controller + cam class) working\Coursework\CourseworkContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Santos\Desktop\Coursework (skybox + cam + controller)\Coursework\CourseworkContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Laurie Green\Desktop\Fs\Coursework (skybox + cam + controller)\Coursework\CourseworkContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Santos\Desktop\New folder\Coursework (skybox + cam + controller)\Coursework\CourseworkContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Santos\Desktop\GP3\Coursework (Final\Coursework\CourseworkContent\obj\x86\Debug\ResolveAssemblyReference.cache
